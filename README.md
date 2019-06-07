@@ -5,3 +5,5 @@
 * Polymer
 * Lit-element 
 * Travis CI
+
+Application contains offline mode without fetching pages.
