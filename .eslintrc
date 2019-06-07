@@ -1,0 +1,22 @@
+{
+    "extends": ["plugin:polymer/polymer-3", "eslint:recommended"],
+    "plugins": ["polymer"],
+    "rules": {
+        "indent": [
+            "error",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "never"
+        ]
+    }
+}
