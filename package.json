@@ -4,7 +4,11 @@
   "description": "Curriculum Vitae - Jakub Madejczyk",
   "author": "Jakub Madejczyk",
   "license": "MIT",
+  "scripts": {
+    "start": "polymer serve"
+  },
   "dependencies": {
+    "@polymer/polymer": "3.2.0",
     "lit-element": "2.1.0"
   }
 }
