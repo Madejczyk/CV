@@ -7,7 +7,7 @@ class MyApp extends LitElement {
 
     render() {
         return html`
-            <div>Kuba</div>
+            <div>Jakub Madejczyk - CV</div>
         `;
     }
 }
