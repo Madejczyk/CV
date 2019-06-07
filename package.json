@@ -1,0 +1,10 @@
+{
+  "name": "madejczyk",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae - Jakub Madejczyk",
+  "author": "Jakub Madejczyk",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "2.1.0"
+  }
+}
